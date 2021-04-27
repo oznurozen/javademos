@@ -1,4 +1,4 @@
-# JAVADEMOS
+# javademos
 
 ## 1. GÜN ÖDEV DERSLERİ
 
