@@ -18,9 +18,9 @@ public class Main {
 			}
 		}
 		if(varMi) {
-			mesajVer("Sayý mevcuttur: " + aranacak);
+			mesajVer("Sayý mevcuttur : " + aranacak);
 		}else {
-			mesajVer("Sayý mevcut deðildir: " + aranacak);
+			mesajVer("Sayý mevcut deðildir : " + aranacak);
 		}
 	}
 	public static void mesajVer(String mesaj) {

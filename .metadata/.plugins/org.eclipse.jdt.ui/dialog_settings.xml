@@ -23,4 +23,18 @@
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="630"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="SelfEncapsulateFieldWizard">
+		<item key="GenerateJavadoc" value="false"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+	</section>
+	<section name="JavaSearchPage">
+		<item key="CASE_SENSITIVE" value="false"/>
+		<item key="INCLUDE_MASK" value="15"/>
+		<item key="HISTORY_SIZE" value="0"/>
+	</section>
 </section>
