@@ -2,8 +2,23 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.debugger.cdbg.Sym"/>
     <fullyQualifiedTypeName name="com.sun.management.OperatingSystemMXBean"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="reCapDemo_Classes.DortIslem"/>
     <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
     <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="inheritance.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.Employee"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.KrediUI"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.AskerKrediManager"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.FileLogger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.EmailLogger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.ConsoleLogger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.BaseLogger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="overriding.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.TarımKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.OgrenciKrediManager"/>
 </qualifiedTypeNameHistroy>
