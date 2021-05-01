@@ -3,7 +3,7 @@ package methods2;
 public class Main {
 
 	public static void main(String[] args) {
-		String mesaj ="Bugün hava çok güzel";
+		//String mesaj ="Bugün hava çok güzel";
 		String yenimesaj = sehirVer();
 		System.out.println(yenimesaj);
 		int sayi = topla(5,7);
